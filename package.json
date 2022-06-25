@@ -1,0 +1,10 @@
+{
+  "name": "ngx-tepalol-container",
+  "version": "0.0.1",
+  "scripts": {
+    "lib:build": "cd ngx-tepalol-uploader && npm run lib:build",
+    "lib:watch": "cd ngx-tepalol-uploader && npm run lib:watch",
+    "lib:publish": "cd ngx-tepalol-uploader && npm run lib:publish",
+    "start:cross": "cd uploader-front && npm run start:cross"
+  }
+}
